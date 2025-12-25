@@ -9,15 +9,11 @@
 [![OpenReview](https://img.shields.io/badge/OpenReview-Profile-orange)](https://openreview.net/profile?id=~Yu_Chen49)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yu%20Chen-blue?logo=linkedin)](https://www.linkedin.com/in/yu-chen-521131357/)
 
----
-
 ## 🔬 Research Interests
 
 - **Multimodal Large Language Models** (MLLMs)
 - **Video Understanding & Reasoning**
 - **Multimodal Reinforcement Learning**
-
----
 
 ## 📊 GitHub Stats
 
@@ -27,8 +23,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-chency&layout=compact&theme=github&hide_border=true)
 
 </div>
-
----
 
 ## 🛠 Tech Stack
 
@@ -41,13 +35,9 @@
 
 </div>
 
----
-
 ## 🎯 Current Focus
 
 > Working on reasoning tasks in Video Understanding, exploring how to enhance the reasoning capabilities of Multimodal Large Language Models in video comprehension scenarios.
-
----
 
 ## 📫 Contact
 
@@ -55,8 +45,6 @@ Welcome for academic collaboration and discussion!
 
 - 📧 **Email**: [yu.chen.8525@gmail.com](mailto:yu.chen.8525@gmail.com)
 - 🔗 **Links**: [Google Scholar](https://scholar.google.com/citations?user=Zv9ykAMAAAAJ) · [OpenReview](https://openreview.net/profile?id=~Yu_Chen49) · [LinkedIn](https://www.linkedin.com/in/yu-chen-521131357/)
-
----
 
 <div align="center">
 
