@@ -15,15 +15,6 @@
 - **Video Understanding & Reasoning**
 - **Multimodal Reinforcement Learning**
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RockyChen0205&theme=github&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyChen0205&layout=compact&theme=github&hide_border=true)
-
-</div>
-
 ## 🛠 Tech Stack
 
 <div align="center">
