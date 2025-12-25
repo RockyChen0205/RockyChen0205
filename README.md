@@ -19,8 +19,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yu-chency&theme=github&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-chency&layout=compact&theme=github&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RockyChen0205&theme=github&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RockyChen0205&layout=compact&theme=github&hide_border=true)
 
 </div>
 
