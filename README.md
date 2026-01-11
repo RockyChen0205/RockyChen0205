@@ -17,14 +17,10 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
-| Programming | Deep Learning | Tools | Publishing |
-|:-----------:|:-------------:|:-----:|:----------:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
-|  | ![Transformers](https://img.shields.io/badge/Transformers-FAB040?style=flat-square&logo=huggingface&logoColor=white) |  | ![Typst](https://img.shields.io/badge/Typst-239601?style=flat-square&logo=typst&logoColor=white) |
-
-</div>
+- **Programming**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Deep Learning**: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FAB040?style=flat-square&logo=huggingface&logoColor=white)
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Publishing**: ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Typst](https://img.shields.io/badge/Typst-239601?style=flat-square&logo=typst&logoColor=white)
 
 ## 🎯 Current Focus
 
