@@ -39,6 +39,14 @@ Welcome for academic collaboration and discussion!
 
 <div align="center">
 
+## 📊 GitHub Contributions
+
+![GitHub Heatmap](https://ghchart.rshah.org/RockyChen0205)
+
+</div>
+
+<div align="center">
+
 *Southeast University → CASIA | Exploring the boundaries of multimodal intelligence*
 
 </div>
