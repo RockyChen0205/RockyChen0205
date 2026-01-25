@@ -14,7 +14,3 @@
 > Working on reasoning tasks in Video Understanding, exploring how to enhance the reasoning capabilities of Multimodal Large Language Models in video comprehension scenarios.
 
 <div align="center">
-
-*Southeast University → CASIA | Exploring the boundaries of multimodal intelligence*
-
-</div>
