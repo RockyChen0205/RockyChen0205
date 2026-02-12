@@ -11,6 +11,6 @@
 
 ## 🔬 Research Interests
 
-> Working on reasoning tasks in Video Understanding, exploring how to enhance the reasoning capabilities of Multimodal Large Language Models in video comprehension scenarios.
+> Dedicated to enabling AI to perceive the real world like humans — with omni-modal understanding capabilities, real-time full-duplex interaction, and life-long omni-modal memory.
 
 <div align="center">
